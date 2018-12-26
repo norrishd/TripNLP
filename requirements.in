@@ -1,0 +1,12 @@
+beautifulsoup4
+dash
+dash-html-components
+dash-core-components
+dash-table
+lxml
+
+jupyterlab
+matplotlib
+numpy
+pandas
+

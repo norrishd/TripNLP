@@ -1,0 +1,7 @@
+requirements.txt
+
+# Any scraped data
+*.html
+
+# Pyenv
+.python-version
