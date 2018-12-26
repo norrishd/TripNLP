@@ -5,3 +5,6 @@ requirements.txt
 
 # Pyenv
 .python-version
+
+# Jupyter
+.ipynb_checkpoints
