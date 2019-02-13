@@ -12,6 +12,7 @@ An investigation into the weird and wonderful experiences people have under the 
 7. Classifier for top terms for each of the above categories
 
 8. Text generation to create fake trip description
+  - Maybe check out Markovify - https://github.com/jsvine/markovify
 9. Comparing words/phrases for recent versus older reports - changing usage/experiences?
   - Or drug popularity over time?
   - need to account for site popularity over time (total drug reports per year?)
